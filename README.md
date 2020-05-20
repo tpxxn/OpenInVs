@@ -9,4 +9,4 @@
 * Parameters 填写参数，第一个参数为 VS 路径（devenv.exe），第二个参数为 $path（在 Fork 中用来指代项目根目录），第三个可选参数为搜索选项，可以填写 SlnOnly/CsprojOnly/All
 
 ## 注意
-* 运行环境：需要 .net core 3.1
+* 运行环境：需要 .net framework 4.6.1
