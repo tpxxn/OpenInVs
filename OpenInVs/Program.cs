@@ -95,7 +95,7 @@ namespace OpenInVs
             return fileList;
         }
 
-        private static void GenerateOption(List<string> filePathList,string projectPath)
+        private static void GenerateOption(List<string> filePathList, string projectPath)
         {
             if (filePathList.Count == 0)
             {
